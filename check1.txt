@@ -11,4 +11,9 @@ newBranch
 More
 a11
 
+<<<<<<< Updated upstream
 29Jul
+=======
+30Jul
+
+>>>>>>> Stashed changes
